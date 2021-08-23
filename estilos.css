@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(211, 127, 131);
+    font: normal 15pt Arial;
+}
+header {
+    color: white;
+    text-align: center;
+
+}
+section {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 4px 4px 10px rgba(14, 3, 3, 0.528);
+
+}
+input#vel {
+    margin: 5px;
+    padding: 5px;
+    margin-top: auto;
+    box-shadow: 4px 4px 6px rgba(14, 3, 3, 0.528);
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
